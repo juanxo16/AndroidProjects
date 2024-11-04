@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toggle Button</string>
+    <string name="txt1">Llamando…</string>
+    <string name="todo">TODO</string>
+    <string name="togg_on">Llamar</string>
+    <string name="togg_off">Colgar</string>
+</resources>

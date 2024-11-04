@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banderitas</string>
+    <string name="text_view1">Elige</string>
+    <string name="boton_inicio">Empezar</string>
+    <string name="boton_final">Finalizar</string>
+    <string name="text_puntos">Puntos: </string>
+
+</resources>

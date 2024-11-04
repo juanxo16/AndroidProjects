@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VentanaDialogo</string>
+    <string name="boton">Alert Dialogo</string>
+    <string name="boton2">Lista Dialogo</string>
+    <string name="boton3">Fecha</string>
+    <string-array name="lista_nav">
+        <item>Firefox</item>
+        <item>Opera</item>
+        <item>Edge</item>
+        <item>Chrome</item>
+        <item>Safari</item>
+    </string-array>
+</resources>
