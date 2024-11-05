@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/reglasjuego"
+        android:title="@string/reglas_del_juego"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/dificultad"
+        android:title="@string/dificultad"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/accesorios"
+        android:title="@string/accesorios"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/infocreador"
+        android:title="@string/creador_del_juego"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_lightbulb_24"
+        />
+</menu>

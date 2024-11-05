@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Escuderías de Formula One</string>
+    <string name="redbull">Red Bull</string>
+    <string name="astonmartin">Aston Martin</string>
+    <string name="ferrari">Ferrari</string>
+    <string name="mclaren">Mclaren</string>
+    <string name="williams">Williams</string>
+    <string name="haas">Haas</string>
+    <string name="rbcashvisa">RB</string>
+    <string name="stake">Stake Sauber</string>
+    <string name="alpine">Alpine</string>
+    <string name="mercedes">Mercedes-AMG</string>
+    <string name="redbullpilotos">Verstappen/Pérez</string>
+    <string name="astonmartinpilotos">Alonso/Stroll</string>
+    <string name="ferraripilotos">Leclerc/Sainz</string>
+    <string name="mclarenpilotos">Norris/Piastri</string>
+    <string name="williamspilotos">Albon/Colapinto</string>
+    <string name="haaspilotos">Hulkenberg/Magnussen</string>
+    <string name="rbcashvisapilotos">Lawson/Tsunoda</string>
+    <string name="stakepilotos">Bottas/Zhou</string>
+    <string name="alpinepilotos">Gasly/Ocon</string>
+    <string name="mercedespilotos">Hamilton/Rusell</string>
+</resources>

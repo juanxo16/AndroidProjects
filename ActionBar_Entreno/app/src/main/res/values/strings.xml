@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Videojuegos</string>
+    <string name="reglas_del_juego">Reglas del Juego</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="accesorios">Accesorios</string>
+    <string name="creador_del_juego">Creador del juego</string>
+
+    <string-array name="dificultad">
+        <item>Facil</item>
+        <item>Intermedio</item>
+        <item>Dificil</item>
+    </string-array>
+
+    <string-array name="accesorios">
+        <item>Sombrero</item>
+        <item>Capa</item>
+        <item>Botas</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListView_Entreno</string>
+    <string name="renault">Renault</string>
+    <string name="audi">Audi</string>
+    <string name="mercedes">Mercedes</string>
+    <string name="porsche">Porsche</string>
+    <string name="fiat">Fiat</string>
+    <string name="opel">Opel</string>
+
+    <string name="renaultclio">Clio</string>
+    <string name="audiatres">A3</string>
+    <string name="mercedesamg">A 45 AMG</string>
+    <string name="porschenueveonce">911</string>
+    <string name="fiatmultipla">Multipla</string>
+    <string name="opelcorsa">Corsa</string>
+
+</resources>
