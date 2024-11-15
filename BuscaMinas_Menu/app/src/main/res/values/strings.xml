@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bombitas</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="comenzar">Comenzar juego</string>
+    <string name="configurar">Configura el juego</string>
+    <string name="elegir">Personajes</string>
+
+
+
+    <string-array name="dificultad">
+        <item>Principiante</item>
+        <item>Amateur</item>
+        <item>Avanzado</item>
+    </string-array>
+
+    <string name="ninguno">Ninguno</string>
+    <string name="minacla">Mina clásica</string>
+    <string name="minabomb">Mina bomber</string>
+    <string name="dinamita">Dinamita</string>
+    <string name="granada">Granada</string>
+    <string name="minasub">Mina submarina</string>
+    <string name="coctelmolo">Coctel Molotov</string>
+</resources>

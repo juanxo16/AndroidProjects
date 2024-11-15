@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="radio_buton1">Java</string>
+    <string name="radio_buton2">Android</string>
+    <string name="texto">Soy bueno en</string>
+    <string name="check_box1">¿Te gusta programar?</string>
+
+
+</resources>

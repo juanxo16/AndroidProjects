@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Switch Button</string>
+    <string name="switch_on">Quitar sombrero</string>
+    <string name="switch_off">Poner sombrero</string>
+    <string name="todo">TODO</string>
+
+</resources>

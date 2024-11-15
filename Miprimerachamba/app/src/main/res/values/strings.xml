@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi primera chamba</string>
+    <string name="boton_pulsar">Pulsar</string>
+    <string name="texto_incial">Bienvenido</string>
+    <string name="texto_final">Pulsado</string>
+
+</resources>

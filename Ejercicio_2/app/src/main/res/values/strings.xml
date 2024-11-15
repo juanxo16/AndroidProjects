@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio_2</string>
+    <string name="button_aceptar">Aceptar</string>
+    <string name="text_usuario">Usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="input_usuario">Introduzca datos</string>
+    <string name="input_password">Introduzca dato</string>
+</resources>

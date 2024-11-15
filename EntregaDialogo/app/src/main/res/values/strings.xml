@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EntregaDialogo</string>
+    <string name="boton1_name">Instrucciones</string>
+    <string name="boton2_name">Dificultad</string>
+    <string-array name="dificultad">
+        <item>Nivel Principiante</item>
+        <item>Nivel Amateur</item>
+        <item>Nivel Avanzado</item>
+    </string-array>
+</resources>
