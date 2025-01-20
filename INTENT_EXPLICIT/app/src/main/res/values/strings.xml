@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INTENT_EXPLICIT</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenido">Bienvenid@ %1$s</string>
+
+</resources>

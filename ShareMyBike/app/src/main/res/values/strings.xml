@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShareMyBike</string>
+    <string name="title_activity_bike">BikeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="selecciona_fecha">Seleccionar fecha</string>
+    <string name="previo">previo</string>
+    <string name="share_my_bike">SHARE MY BIKE</string>
+    <string name="the_bike_experience_exchange_app">The bike experience exchange app</string>
+    <string name="calle_bronces_39">Calle Bronces 39</string>
+    <string name="share_mybike_com">share@mybike.com</string>
+</resources>

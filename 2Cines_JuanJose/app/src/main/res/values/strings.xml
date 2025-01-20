@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cines</string>
+    <string name="precios">Precios</string>
+    <string name="peliculas">Películas</string>
+    <string name="buscar">Buscar</string>
+    <string name="elige_un_cine">Elige un cine</string>
+    <string name="cinema">Cinema</string>
+    <string name="cinemaNombre">Cinema</string>
+    <string name="cinepolisNombre">Cinepolis</string>
+</resources>

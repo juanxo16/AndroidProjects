@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarma_Primera</string>
+    <string name="crear_alarma">Crear alarma</string>
+    <string name="llamar">Llamar</string>
+</resources>
